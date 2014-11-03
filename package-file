@@ -4,7 +4,7 @@
 package-file	package-file
 bootloader	RK30xxLoader(L)_V1.34.bin
 parameter	parameter
-misc		Image/misc_factory_test.img
+misc		Image/pcba_whole_misc.img
 kernel		Image/kernel.img
 boot        Image/boot.img
 recovery	Image/recovery.img
